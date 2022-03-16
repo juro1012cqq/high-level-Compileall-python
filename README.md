@@ -12,8 +12,8 @@
 <br/>
 ### <strong><i>Install</i></strong>
 <div align="center">
-<image src="https://github.com/juro1012cqq/high-level-Compileall-python/tree/main/Image/icon8-command-line-50.png"/>
-<image src="https://github.com/juro1012cqq/high-level-Compileall-python/tree/main/Image/icons8-git-50.png"/>
+<image src="https://github.com/juro1012cqq/high-level-Compileall-python/blob/main/Image/icons8-command-line-50.png"/>
+<image src="https://github.com/juro1012cqq/high-level-Compileall-python/blob/main/Image/icons8-git-50.png"/>
 </div>
 
 
