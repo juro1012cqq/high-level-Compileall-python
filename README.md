@@ -3,7 +3,7 @@
 
 :red_circle: :orange_circle: :green_circle:
 <br/>Hi there, welcome to my project.
-<br/>My project that pretty <strong>secure and fast</strong>.
+<br/>My project that pretty <strong>securely and fastly</strong>.
 <br/>
 ### <strong><i>Enviroment</i></strong>
 ### <strong><i>Install</i></strong>
