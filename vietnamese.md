@@ -16,7 +16,7 @@
 
 ---
 
-### <strong><i>Cài đặt</i></strong>
+### <strong><i>Cài đặt</i></strong> :hammer_and_wrench:
 <div align="center">
 <a href="#CMD" title="Command Prompt"><image src="https://github.com/juro1012cqq/high-level-Compileall-python/blob/main/Image/icons8-command-line-50.png"/></a>
 <a href="https://git.com" title="Git"><image src="https://github.com/juro1012cqq/high-level-Compileall-python/blob/main/Image/icons8-git-50.png"/></a>
@@ -38,14 +38,17 @@ $unZipTo = "Your location that you want to unzip."
 Invoke-WebRequest -Uri $url -Outfil $fileSave
 Expand-Archive -Path $fileSave -DestinationPath $unZipTo
 ```
+:gift::tada::tada::tada:
+<br/>
 
-### <strong><i>Hướng dẫn sử dụng</i></strong>
+---
+### <strong><i>Hướng dẫn sử dụng</i></strong> :blue_book:
 
 ```text
-CÚ PHÁP:
-    TH compilePYC.pyc:
+Cú pháp:
+    T/H compilePYC.pyc:
         python compilePYC.pyc [options]
-    TH compilePYC.exe:
+    T/H compilePYC.exe:
         compilePYC.exe [options]
 Các cài đặt:
     --del-py            : Xóa tất cả file *.py sau khi hoàn thành biên dịch sang *.pyc
@@ -61,11 +64,11 @@ Ví dụ:
 
 ---
 
-### <strong><i>Tác giả</i></strong>
+### <strong><i>Tác giả</i></strong> :black_nib:
 [@juro1012cqq](https://github.com/juro1012cqq)
 
 ---
 
-### <strong><i>Bản quyền</i></strong>
+### <strong><i>Bản quyền</i></strong> :page_with_curl:
 
 Dự án này được cấp phép theo giấy phép MIT - Xem thêm tại [đây](https://github.com/juro1012cqq/high-level-Compileall-python/blob/b9ea12fabd463907b0a5d0e040b233a26b3dc565/LICENSE)

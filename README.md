@@ -16,7 +16,7 @@
 
 ---
 
-### <strong><i>Installation</i></strong>
+### <strong><i>Installation</i></strong> :hammer_and_wrench:
 <div align="center">
 <a href="#CMD" title="Command Prompt"><image src="https://github.com/juro1012cqq/high-level-Compileall-python/blob/main/Image/icons8-command-line-50.png"/></a>
 <a href="https://git.com" title="Git"><image src="https://github.com/juro1012cqq/high-level-Compileall-python/blob/main/Image/icons8-git-50.png"/></a>
@@ -38,8 +38,12 @@ $unZipTo = "Your location that you want to unzip."
 Invoke-WebRequest -Uri $url -Outfil $fileSave
 Expand-Archive -Path $fileSave -DestinationPath $unZipTo
 ```
+:gift::tada::tada::tada:
+<br/>
 
-### <strong><i>Used guide</i></strong>
+---
+
+### <strong><i>Used guide</i></strong> :blue_book:
 
 ```text
 Systax:
@@ -61,11 +65,11 @@ Exam:
 
 ---
 
-### <strong><i>Author</i></strong>
+### <strong><i>Author</i></strong> :black_nib:
 [@juro1012cqq](https://github.com/juro1012cqq)
 
 ---
 
-### <strong><i>License</i></strong>
+### <strong><i>License</i></strong> :page_with_curl:
 
 This project is licensed under the MIT License - see more at [here](https://github.com/juro1012cqq/high-level-Compileall-python/blob/b9ea12fabd463907b0a5d0e040b233a26b3dc565/LICENSE)
