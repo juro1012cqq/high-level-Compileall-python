@@ -39,7 +39,7 @@ Invoke-WebRequest -Uri $url -Outfil $fileSave
 Expand-Archive -Path $fileSave -DestinationPath $unZipTo
 ```
 
-### <strong><i>Using guide</i></strong>
+### <strong><i>Used guide</i></strong>
 
 ```text
 Systax:
