@@ -1,6 +1,6 @@
 # high-level-Compileall-python
 - [x] English version
-- [ ] [Vietnamese version] (./vietnamese.md)
+<br/>[Vietnamese version] (https://github.com/juro1012cqq/high-level-Compileall-python/blob/main/vietnamese.md)
 <details><summary>English version</summary>
 <p>
 Hi there, welcome to my git problem.<br/>
