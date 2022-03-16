@@ -8,4 +8,3 @@
 ### <strong><i>Enviroment</i></strong>
 ### <strong><i>Install</i></strong>
 ### <strong><i>Using guide</i></strong>
-<p color="red">Hello</p>
