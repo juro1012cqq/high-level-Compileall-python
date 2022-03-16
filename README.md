@@ -16,7 +16,7 @@
 
 ---
 
-### <strong><i>Install</i></strong>
+### <strong><i>Installation</i></strong>
 <div align="center">
 <a href="#CMD" title="Command Prompt"><image src="https://github.com/juro1012cqq/high-level-Compileall-python/blob/main/Image/icons8-command-line-50.png"/></a>
 <a href="https://git.com" title="Git"><image src="https://github.com/juro1012cqq/high-level-Compileall-python/blob/main/Image/icons8-git-50.png"/></a>
