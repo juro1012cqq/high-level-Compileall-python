@@ -41,9 +41,29 @@ Expand-Archive -Path $fileSave -DestinationPath $unZipTo
 
 ### <strong><i>Using guide</i></strong>
 
+```text
+Systax:
+    Case compilePYC.pyc:
+        python compilePYC.pyc [options]
+    Case compilePYC.exe:
+        compilePYC.exe [options]
+Options:
+    --del-py            : Delete all file *.py  finish compiled
+    --save-py           : Don't impact file *.py after finish compiled
+    --on-log            : See all the proccessed
+    --off-log (Default) : Break all the processed
+Exam:
+    python compilePYC.pyc --del-py --on-log
+    python compilePYC.pyc --del-py
+    compilePYC.exe --del-py --on-log
+    compilePYC.exe --del-py
+```
+
 ---
 
 ### <strong><i>Author</i></strong>
 [@juro1012cqq](https://github.com/juro1012cqq)
 
 ---
+
+### <strong><i>Lincesed</i></strong>
