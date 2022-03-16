@@ -1,6 +1,6 @@
 # high-level-Compileall-python
 - [x] English version
-- [Vietnamese version] (./vietnamese.md)
+- [ ] [Vietnamese version] (./vietnamese.md)
 <details><summary>English version</summary>
 <p>
 Hi there, welcome to my git problem.<br/>
