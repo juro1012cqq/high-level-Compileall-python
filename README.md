@@ -12,3 +12,7 @@ secure and fast.
 ```
 git clone https://github.com/juro1012cqq/high-level-Compileall-python.git
 ```
+### <image src="https://img.icons8.com/ios/452/powershell.png" width="35" height="35"/> 
+```
+
+```
