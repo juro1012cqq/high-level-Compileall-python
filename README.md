@@ -18,8 +18,8 @@
 
 ### <strong><i>Install</i></strong>
 <div align="center">
-<a href="#CMD"><image src="https://github.com/juro1012cqq/high-level-Compileall-python/blob/main/Image/icons8-command-line-50.png"/></a>
-<a href="https://github.com"><image src="https://github.com/juro1012cqq/high-level-Compileall-python/blob/main/Image/icons8-git-50.png"/></a>
+<a href="#CMD" title="Command Prompt"><image src="https://github.com/juro1012cqq/high-level-Compileall-python/blob/main/Image/icons8-command-line-50.png"/></a>
+<a href="https://git.com" title="Git"><image src="https://github.com/juro1012cqq/high-level-Compileall-python/blob/main/Image/icons8-git-50.png"/></a>
 </div>
 
 
@@ -28,7 +28,7 @@ git clone https://github.com/juro1012cqq/high-level-Compileall-python.git
 ```
 
 <div align="center">
-<a href="#CMD"><image src="https://github.com/juro1012cqq/high-level-Compileall-python/blob/main/Image/icons8-powershell-50.png"/></a>
+<a href="#CMD" title="Windows PowerShell"><image src="https://github.com/juro1012cqq/high-level-Compileall-python/blob/main/Image/icons8-powershell-50.png"/></a>
 </div>
 
 ```PS1
