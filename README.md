@@ -66,4 +66,6 @@ Exam:
 
 ---
 
-### <strong><i>Lincesed</i></strong>
+### <strong><i>License</i></strong>
+
+This project is licensed under the MIT License - see more at [here](https://github.com/juro1012cqq/high-level-Compileall-python/blob/b9ea12fabd463907b0a5d0e040b233a26b3dc565/LICENSE)
