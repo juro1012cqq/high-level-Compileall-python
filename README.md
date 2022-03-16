@@ -40,3 +40,10 @@ Expand-Archive -Path $fileSave -DestinationPath $unZipTo
 ```
 
 ### <strong><i>Using guide</i></strong>
+
+---
+
+### <strong><i>Author</i></strong>
+[@juro1012cqq](https://github.com/juro1012cqq)
+
+---
